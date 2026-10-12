@@ -61,7 +61,6 @@ A lab-style simulator that mimics real operational tickets.
 - 📄 PDF with all challenge statements (incident and request style)
 - 🐚 Shell script that sets up the lab environment
 - 🔑 Answer key with the expected solution
-- 🖥️ Sample outputs to verify your work
 - 🐧 Commands for both **RHEL-based** (RHEL, CentOS, Rocky, Alma) and **Debian-based** (Ubuntu, Debian) systems
 
 ---
@@ -77,15 +76,15 @@ A lab-style simulator that mimics real operational tickets.
 1. Clone the repository:
    ```bash
    git clone https://github.com/shaamsarath7-hue/DOC_S.git
-   cd DOC_S/1_Linux/2_Linux_Challenges
+   cd DOC_S/1_LINUX/2_Linux_Challenges
    ```
 2. Make the setup script executable and run it:
    ```bash
-   chmod +x <script-name>.sh
-   ./<script-name>.sh 1
+   chmod +x linux_challenge.sh
+   ./linux_challenge.sh 1
    ```
 3. Read the challenge PDF and solve each task in your terminal.
-4. Compare your work against the **answer key** and **sample outputs**.
+4. Compare your work against the **answer key**.
 
 > ⚠️ **Safety note:** Run the scripts only in a **disposable lab environment** such as a VM, container or cloud sandbox. Never run them on production or personal machines.
 
