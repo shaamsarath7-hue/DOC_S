@@ -69,7 +69,7 @@ A lab-style simulator that mimics real operational tickets.
 ## 🚀 How to Use This Repository
 
 ### Read the notes
-1. Open the `Linux/` folder.
+1. Open the `1_Linux/` folder.
 2. Pick a part, for example `1_Linux_Handbook/`.
 3. Open the PDF directly from GitHub, or download it for offline reading.
 
@@ -77,12 +77,12 @@ A lab-style simulator that mimics real operational tickets.
 1. Clone the repository:
    ```bash
    git clone https://github.com/shaamsarath7-hue/DOC_S.git
-   cd DOC_S/Linux/2_Linux_Challenges
+   cd DOC_S/1_Linux/2_Linux_Challenges
    ```
 2. Make the setup script executable and run it:
    ```bash
    chmod +x <script-name>.sh
-   sudo ./<script-name>.sh
+   ./<script-name>.sh 1
    ```
 3. Read the challenge PDF and solve each task in your terminal.
 4. Compare your work against the **answer key** and **sample outputs**.
