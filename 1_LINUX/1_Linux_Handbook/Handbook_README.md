@@ -141,7 +141,7 @@ On GitHub, open the file and click **Download raw file** to save it for offline 
 
 ## 👤 Author
 
-**Shaam Natheshwar**, DevOps / Cloud Engineer, Chennai, India
+**ShaamNatheshwar Sasikumar**, DevOps / Cloud Engineer, Chennai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaamnatheshwar-sasikumar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/shaamsarath7-hue)
