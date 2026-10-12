@@ -28,7 +28,7 @@ The goal is simple: **learn by doing**. Linux is covered in two parts:
 .
 ├── README.md
 │
-└── Linux/
+└── 1_LINUX/
     ├── 1_Linux_Handbook/
     └── 2_Linux_Challenges/
 ```
@@ -69,7 +69,7 @@ A lab-style simulator that mimics real operational tickets.
 ## 🚀 How to Use This Repository
 
 ### Read the notes
-1. Open the `1_Linux/` folder.
+1. Open the `1_LINUX/` folder.
 2. Pick a part, for example `1_Linux_Handbook/`.
 3. Open the PDF directly from GitHub, or download it for offline reading.
 
