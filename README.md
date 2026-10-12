@@ -126,7 +126,7 @@ You can also open an **Issue** for suggestions or corrections.
 
 ## 👤 Author
 
-**Shaam Natheshwar**
+**ShaamNatheshwar Sasikumar**
 DevOps / Cloud Engineer | Chennai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaamnatheshwar-sasikumar/)
